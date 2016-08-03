@@ -1,0 +1,17 @@
+html, body{
+	margin: 0;
+}
+
+*{
+	font-family: helvetica;
+}
+
+.cell {
+	width: 92%;
+	background: white;
+	margin-bottom: 30px;
+	padding:4%;
+	text-align: center;
+	border-top: solid #CCCCCC 1px;
+	border-bottom: solid #CCCCCC 1px;
+}

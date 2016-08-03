@@ -1,0 +1,8 @@
+Origin: c0ldra1n
+Label: c0ldra1n public repo
+Suite: stable
+Version: 0.9
+Codename: typhoon
+Architectures: iphoneos-arm
+Components: main
+Description: c0ldra1n public repo
