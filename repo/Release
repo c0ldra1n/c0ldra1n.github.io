@@ -1,8 +1,8 @@
 Origin: c0ldra1n
-Label: c0ldra1n public repo
-Suite: stable
-Version: 0.9
+Label: c0ldra1n's beta repo
+Suite: beta
+Version: 0.7
 Codename: typhoon
 Architectures: iphoneos-arm
 Components: main
-Description: c0ldra1n public repo
+Description: c0ldra1n's beta repo
